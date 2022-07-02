@@ -1,7 +1,7 @@
 
   1. `PLATFORM_ID_VALUE` = `VALUE`
-  2. `PLATFORM_LOGO_URL_VALUE` = `https://shapeableai.github.io/images/logos/PLATFORM_ID_VALUE.png`
-  3. `GITHUB_REPO_VALUE` = `VALUE`
+  2. `PLATFORM_NAME_VALUE` = `VALUE`
+  3. `PLATFORM_LOGO_URL_VALUE` = `https://shapeableai.github.io/images/logos/PLATFORM_ID_VALUE.png`
   4. `AIRTABLE_BASE_VALUE` = `VALUE`
   5. `GITHUB_REPO_VALUE` = `VALUE`
   6. `AUTH0_TENANT_NAME_REGION_VALUE` = `VALUE`
